@@ -23,7 +23,7 @@ pip install -e .
 ![](results/Investigation_of_different_segmentation_backbones_MSD.png)
 - Segmentation cases of PRCS models (ours) embedded into 3D U-Net, 3D ResNet, and 3D nnU-Net. Yellow indicates the segmented lung tumor region..
 - 
-![](results/Comparison_with_other_state-of-the-art methods_SDCH.png)
+![](results/Comparison_with_other_state-of-the-art_methods_SDCH.png)
 - Five cases with manual delineation results (GT) and the segmentation results by our model and
 other comparing models on the SDCH dataset. The lung tumor segmented by each model are shown in
 yellow color.
