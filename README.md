@@ -1,7 +1,7 @@
 # CMPB: Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation
 Built upon [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet), this repository provides the official PyTorch implementation of CMPB.
 
-## How to use AdwU-Net:
+## How to use CMPB:
 ### 1. Requirements:
 Linux, Python3.7+, Pytorch1.6+
 ### 2. Installation:
@@ -17,6 +17,7 @@ pip install -e .
 ## Citation
 If you find this repository useful, please consider citing our paper:
 ```
+
 @inproceedings{
 xuan2022cmpb,
 title={Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation},
