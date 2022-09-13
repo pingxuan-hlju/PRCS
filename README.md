@@ -13,11 +13,9 @@ pip install -e .
 * Copy the python files in folder attention to nnunet
 * Copy the python files in folder network_architecture to nnunet/network_architecture
 
-```
 ## Citation
 If you find this repository useful, please consider citing our paper:
 ```
-
 @inproceedings{
 xuan2022cmpb,
 title={Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation},
