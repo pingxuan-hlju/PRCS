@@ -1,7 +1,7 @@
 # CMPB: Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation
 Built upon [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet), this repository provides the official PyTorch implementation of CMPB.
 
-## How to use CMPB:
+## How to use CMPB
 ### 1. Requirements:
 Linux, Python3.7+, Pytorch1.6+
 ### 2. Installation:
@@ -28,7 +28,7 @@ pip install -e .
 other comparing models on the SDCH dataset. The lung tumor segmented by each model are shown in
 yellow color.
 
-### Dataset
+## Dataset
 [MSD](http://medicaldecathlon.com/),[SDCH](a dataset from Shandong Cancer Hospital)
 
 ## Citation
