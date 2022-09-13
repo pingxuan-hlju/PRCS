@@ -6,9 +6,11 @@ Built upon [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet), this repositor
 Linux, Python3.7+, Pytorch1.6+
 ### 2. Installation:
 * Install nnU-Net as below
+```
 git clone https://github.com/MIC-DKFZ/nnUNet.git
 cd nnUNet
 pip install -e .
+```
 * Copy the python files in folder gru to nnunet
 * Copy the python files in folder attention to nnunet
 * Copy the python files in folder network_architecture to nnunet/network_architecture
