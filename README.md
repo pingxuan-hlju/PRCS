@@ -31,7 +31,7 @@ other comparing models on the SDCH dataset. The lung tumor segmented by each mod
 yellow color.
 
 ## Dataset
-[MSD](http://medicaldecathlon.com/),[SDCH](a dataset from Shandong Cancer Hospital)
+[MSD](http://medicaldecathlon.com/),in-house SDCH dataset
 
 ## Citation
 If you find this repository useful, please consider citing our paper:
