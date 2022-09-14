@@ -1,7 +1,7 @@
-# CMPB: Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation
-Built upon [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet), this repository provides the official PyTorch implementation of CMPB.
+# PRCS: Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation
+Built upon [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet), this repository provides the official PyTorch implementation of PRCS.
 
-## How to use CMPB
+## How to use PRCS
 ### 1. Requirements:
 Linux, Python3.7+, Pytorch1.6+
 ### 2. Installation:
@@ -37,7 +37,7 @@ yellow color.
 If you find this repository useful, please consider citing our paper:
 ```
 @inproceedings{
-xuan2022cmpb,
+xuan2022prcs,
 title={Convolutional bi-directional learning and spatial enhanced attentions for lung tumor segmentation},
 author={Ping Xuan and Bin Jiang and Hui Cui and Qiangguo Jin and Peng Cheng and Toshiya Nakaguchi and Tiangang Zhang and Changyang Li and Zhiyu Ning and Menghan Guo and Linlin Wang},
 booktitle={Computer Methods and Programs in Biomedicine(under review)},
